@@ -1,0 +1,17 @@
+.blocktreerating img {
+	width: 200px;
+	height: auto;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.blocktreerating span.treerating-text {
+	line-height: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.blocktreerating span.treerating-text a {
+	color: #0089cf;
+	text-decoration: underline;
+}
